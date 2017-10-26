@@ -1,1 +1,55 @@
 style.css
+body {
+  background
+}
+img.hero {
+  width: 100%;
+  height: auto;
+  background-color: black;
+  margin-bottom: -4px;
+}
+h1 {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  
+  font-family: "helvetica", ariel, sans-serif;
+  font-size: 32px;
+  line-height: 85%;
+  font-weight: bold;
+  text-align: left;
+  color: black;
+  padding-bottom: 0px;
+  text-transform: uppercase;
+}
+h2 {
+  margin-top: 0px;
+  padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+  color:white;
+  font-size: .875em;
+  font-family: helvetica, arial, sans-serif;
+  font-style: bold;
+  text-indent: 18px;
+  letter-spacing: 2-x;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+ul {
+  font-family: "helvetica", ariel, sans-serif;
+    columns: 3;
+    list-style: none;
+    width: 50%;
+    margin: 20px auto;
+}
+
+p {
+  margin-top: 0px;
+  font-family: "helvetica", arial, sans-serif;
+}
+
+div {
+  margin-top: 0px;
+}
