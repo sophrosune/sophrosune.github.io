@@ -78,6 +78,188 @@ footer {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+/*
+Project Name: Relaxr Webpage
+Client: Your Client
+Author: Hadas
+Developer @GA in NYC
+*/
+
+
+/******************************************
+/* SETUP
+/*******************************************/
+
+/* Box Model Hack */
+* {
+     -moz-box-sizing: border-box; /* Firexfox */
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+     box-sizing: border-box; /* IE */
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+img {
+  width: 100%;
+}
+.h2 {
+  position: absolute; 
+  top: 20px; 
+  left: 45px; 
+  width: 100%;
+  font-size: 24px;
+  font-weight: 900;
+  color: white;
+}
+
+.overlay1 {
+  position: absolute; 
+  top: 90px; 
+  left: 90px; 
+  width: 100%;
+  font-size: 24px;
+  font-weight: 400;
+  color: white;
+}
+
+.overlay2 {
+  position: absolute; 
+  text-align: center;
+  top: 165px; 
+  left: 220px; 
+  width: 25%;
+  font-size: 14px;
+  font-weight: 700;
+  color: #033048;
+  background-color: #f9e42e;
+  height: 5%;
+  padding-top: 7px;
+  border-radius: 3px;
+}
+
+body {
+     color: #000;
+     font-size: 12px;
+     line-height: 1.4;
+     font-family: Open Sans, sans-serif;
+     background-color: #f0efef;
+      background-size: cover;
+}
+
+body {
+  text-align: left;
+  font-family: Open Sans, sans-serif;
+}
+
+p {
+  padding-left: 7%;
+  background-color: #f0efef;
+  font-family: Open Sans, sans-serif;
+}
+
+ul {
+  padding-left: 14%;
+  background-color: #f0efef;
+  font-family: Open Sans, sans-serif;
+}
+
+h2 {
+  padding-left: 7%;
+  background-color: #f0efef;
+  font-family: Open Sans, sans-serif;
+  font-weight: 600;
+  color: #033048;
+  font-size: 20px;
+}
+
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+/* Center the container */
+#container {
+  width: 100%;
+  margin: auto;
+  height: 500px;
+  font-family: Open Sans, sans-serif;
+  background-color: #f0efef;
+  font-weight: lighter;
+  color: #606161;
+  font-size: 13px;
+  line-height: 23px;
+}
+
+.testimonial {
+  background-image: url("http://res.cloudinary.com/jkeohan/image/upload/v1509050227/testimonial_bg_rd59w7.jpg");
+  text-align: center;
+  margin: auto;
+  color: white;
+  font-weight: lighter;
+  font-size: 18px;
+  font-style: italic;
+  padding: 35px;
+
+}
+
+.name {
+  font-weight: 400;
+  font-size: 18px;
+  font-style: normal;
+}
+
+header {
+background-color: #;
+}
+
+.button {
+  height: 100%
+  border-color: #033048;
+  background-color: #f9e42e;
+  color: white;
+  padding: 20px;
+}
+
+span {
+  background-color: #033048;
+  color: white;
+  height: 30%;
+  text-align: center;
+  margin: 40%;
+  padding: 6px 40px 6px;
+  font-size: 12px;
+  border-radius: 3px;
+  font-weight: 600;
+}
+
+.footer {
+  font size: 24px;
+  font-weight: 800;
+  color: #f9e42e;
+  text-align: center;
+  padding: 5%;
+  font-size: 24px;
+}
+
+footer {  
+  background-color: #121212; 
+}
+
+.copy {
+  text-align: center;
+  font-size: 9px;
+  font-weight: 600;
+  color: rgba(250,250,250,.8);
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+
+
+
 
 
 
