@@ -3,7 +3,6 @@
 	border-style: solid;
 }
 
-
 .space {
 	border-color: blue;
 }
@@ -30,6 +29,7 @@
 
 .propertyservices {
 	border-color: yellow;
+	color: blue;
 }
 
 .membersupport {
@@ -48,3 +48,5 @@
 img {
 	height,width: 300px;
 }
+
+
