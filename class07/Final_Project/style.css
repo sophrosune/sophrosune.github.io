@@ -3,66 +3,81 @@
 	border-style: solid;
 }
 
-.space {
-  	border-style: solid;
+/*.SW, .ZP, .JennC, .CG, .DQ, .RP, .MP*/
+
+.SW, .ZP, .JennC, .CG, .DQ, .RP, .MP {
+  border-style: solid;
 	border-color: blue;
+  border-width: 5px;
+  float: left;
 }
 
 .realestate {
   	border-style: solid;
 	border-color: red;
+   float: left;
 }
 
 .marketing {
   	border-style: solid;
 	border-color: green;
+   float: left;
 }
 
 .revenue {
   	border-style: solid;
 	border-color: purple;
+   float: left;
 }
 
 .ms {
   	border-style: solid;
 	border-color: 
+     float: left;
 }
 
 .mshomemanagers {
   	border-style: solid;
 	border-color: white;
+   float: left;
 }
 
 .propertyservices {
   	border-style: solid;
 	border-color: yellow;
 	color: blue;
+   float: left;
 }
 
 .membersupport {
   	border-style: solid;
 	border-color: pink;
+   float: left;
 }
 
 .finleg {
   	border-style: solid;
 	border-color: orange;
+   float: left;
 }
 
 .peopleops {
   	border-style: solid;
 	border-style: dotted;
 	border-color: yellow;
+   float: left;
 }
 
 .digitalproduct {
   border-style: dashed;
   border-color: black;
+   float: left;
 }
 
 .westcoast {
   border-style: solid;
   border-color: yellow;
+   float: left;
 }
 
 
