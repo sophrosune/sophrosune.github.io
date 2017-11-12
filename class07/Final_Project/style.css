@@ -1,6 +1,7 @@
 .commonteam {
 	border-width: 10px;
 	border-style: solid;
+  float: left;
 }
 
 /*.SW, .ZP, .JennC, .CG, .DQ, .RP, .MP*/
@@ -12,71 +13,72 @@
   float: left;
 }
 
-.realestate {
-  	border-style: solid;
+.SimonJ, .SterlingJ, .SamA, .Sandy, .JakeC, .ShainaL, .Fedder, .CalebB, .EricP, .Britt, .JosephA, .CaesarN {
+  border-style: solid;
 	border-color: red;
-   float: left;
+  border-width: 5px;
+  float: left;
 }
 
-.marketing {
+.Zubinc, .LissetteG, .KatrinaR, .DannyR, .EricR, .MartinE, .JodiF, .MayaB {
   	border-style: solid;
 	border-color: green;
    float: left;
 }
 
-.revenue {
+.JeremyA, .Jarman, .JulieK, .AmyJ, .AntonA {
   	border-style: solid;
 	border-color: purple;
    float: left;
 }
 
-.ms {
+.JordanQ {
   	border-style: solid;
 	border-color: 
      float: left;
 }
 
-.mshomemanagers {
+.PrysmA, .Harrison, .Bocker, .MelissaT, .Gavan, .JeffS, .EllisT {
   	border-style: solid;
-	border-color: white;
+	border-color: lightblue;
    float: left;
 }
 
-.propertyservices {
+.Chris, .MorganC, .ArmelM, .BrianF, .JohnP, .JoseM, .JohnM, .JacuesS, .JustinV, .JonV, .CarlosY, .TomasR {
   	border-style: solid;
-	border-color: yellow;
+	border-color: lightgreen;
 	color: blue;
    float: left;
 }
 
-.membersupport {
+.CharmaineT, .LindsayL, .ChaseS, .RebekaA {
   	border-style: solid;
 	border-color: pink;
    float: left;
 }
 
-.finleg {
+.SimonJ2, .PoojaS, .Jesse {
   	border-style: solid;
 	border-color: orange;
    float: left;
 }
 
-.peopleops {
+.HBT {
   	border-style: solid;
 	border-style: dotted;
-	border-color: yellow;
+	border-color: Black;
    float: left;
 }
 
-.digitalproduct {
+.tsamb, .Tim, .LeonDT, .Steeds, .JasonM {
   border-style: dashed;
   border-color: black;
    float: left;
 }
 
-.westcoast {
+.Bridgette, .Brad {
   border-style: solid;
-  border-color: yellow;
+  border-color: purple;
    float: left;
 }
 
