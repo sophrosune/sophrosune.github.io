@@ -4,49 +4,65 @@
 }
 
 .space {
+  	border-style: solid;
 	border-color: blue;
 }
 
 .realestate {
+  	border-style: solid;
 	border-color: red;
 }
 
 .marketing {
+  	border-style: solid;
 	border-color: green;
 }
 
 .revenue {
+  	border-style: solid;
 	border-color: purple;
 }
 
 .ms {
+  	border-style: solid;
 	border-color: 
 }
 
 .mshomemanagers {
+  	border-style: solid;
 	border-color: white;
 }
 
 .propertyservices {
+  	border-style: solid;
 	border-color: yellow;
 	color: blue;
 }
 
 .membersupport {
+  	border-style: solid;
 	border-color: pink;
 }
 
 .finleg {
+  	border-style: solid;
 	border-color: orange;
 }
 
 .peopleops {
+  	border-style: solid;
 	border-style: dotted;
 	border-color: yellow;
 }
 
-img {
-	height,width: 300px;
+.digitalproduct {
+  border-style: dashed;
+  border-color: black;
+}
+
+.westcoast {
+  border-style: solid;
+  border-color: yellow;
 }
 
 
