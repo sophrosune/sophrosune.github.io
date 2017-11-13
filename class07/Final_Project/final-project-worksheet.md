@@ -22,6 +22,8 @@ Include wireframes for all pages included in the site including:
 ### Landing Page
 
 #### Desktop
+![Desktop](https://github.com/sophrosune/sophrosune.github.io/blob/master/class07/Final_Project/images/desktop1.jpg "Landing Page Desktop")
+
 
 #### Tablet
 
