@@ -31,13 +31,13 @@ Include wireframes for all pages included in the site including:
 
 #### Tablet
 
-![Tablet](https://github.com/sophrosune/sophrosune.github.io/blob/master/class07/Final_Project/images/tablet2.jpg "Game Tablet")
+![Tablet](https://github.com/sophrosune/sophrosune.github.io/blob/master/class07/Final_Project/images/tablet22.jpg "Game Tablet")
 
 #### Mobile
 
-![Mobile Landing Page](https://github.com/sophrosune/sophrosune.github.io/blob/master/class07/Final_Project/images/mobile1.jpg "Mobile Landing Page")
+![Mobile Landing Page](https://github.com/sophrosune/sophrosune.github.io/blob/master/class07/Final_Project/images/mobile11.jpg "Mobile Landing Page")
 
-![Mobile Game](https://github.com/sophrosune/sophrosune.github.io/blob/master/class07/Final_Project/images/mobile2.jpg "Mobile Game")
+![Mobile Game](https://github.com/sophrosune/sophrosune.github.io/blob/master/class07/Final_Project/images/mobile22.jpg "Mobile Game")
 
 ## MVP 
 
