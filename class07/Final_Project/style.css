@@ -1,85 +1,121 @@
-.commonteam {
-	border-width: 10px;
-	border-style: solid;
-  float: left;
-}
 
-/*.SW, .ZP, .JennC, .CG, .DQ, .RP, .MP*/
+
+.commonteam {
+  border-style: solid;
+	border-color: #D44D35;
+  overflow: hidden;
+  border-width: 10px;
+  height: 1210px;
+  width: 660px;
+}
 
 .SW, .ZP, .JennC, .CG, .DQ, .RP, .MP {
   border-style: solid;
-	border-color: blue;
+	border-color: #F8F8F8;
   border-width: 5px;
   float: left;
+  height: 100px;
+  width: 100px;
 }
 
 .SimonJ, .SterlingJ, .SamA, .Sandy, .JakeC, .ShainaL, .Fedder, .CalebB, .EricP, .Britt, .JosephA, .CaesarN {
   border-style: solid;
-	border-color: red;
+	border-color: #F8F8F8;
   border-width: 5px;
   float: left;
+    height: 100px;
+  width: 100px;
 }
 
-.Zubinc, .LissetteG, .KatrinaR, .DannyR, .EricR, .MartinE, .JodiF, .MayaB {
+.ZubinC, .LissetteG, .KatrinaR, .DannyR, .EricR, .MartinE, .JodiF, .MayaB {
   	border-style: solid;
-	border-color: green;
+	border-color: #F8F8F8;
+    border-width: 5px;
    float: left;
+    height: 100px;
+  width: 100px;
 }
 
 .JeremyA, .Jarman, .JulieK, .AmyJ, .AntonA {
   	border-style: solid;
-	border-color: purple;
+	border-color: #F8F8F8;
+    border-width: 5px;
    float: left;
+    height: 100px;
+  width: 100px;
 }
 
 .JordanQ {
   	border-style: solid;
-	border-color: 
+	border-color: #F8F8F8;
+    border-width: 5px;
      float: left;
+    height: 100px;
+  width: 100px;
 }
 
 .PrysmA, .Harrison, .Bocker, .MelissaT, .Gavan, .JeffS, .EllisT {
   	border-style: solid;
-	border-color: lightblue;
+	border-color: #F8F8F8;
+    border-width: 5px;
    float: left;
+    height: 100px;
+  width: 100px;
 }
 
-.Chris, .MorganC, .ArmelM, .BrianF, .JohnP, .JoseM, .JohnM, .JacuesS, .JustinV, .JonV, .CarlosY, .TomasR {
+.Chris, .MorganC, .ArmelM, .BrianF, .JohnP, .JoseM, .JohnM, .JacquesS, .JustinV, .JonV, .CarlosY, .TomasR {
   	border-style: solid;
-	border-color: lightgreen;
-	color: blue;
+	border-color: #F8F8F8;
+    border-width: 5px;
    float: left;
+    height: 100px;
+  width: 100px;
 }
 
 .CharmaineT, .LindsayL, .ChaseS, .RebekaA {
   	border-style: solid;
-	border-color: pink;
+	border-color: #F8F8F8;
+    border-width: 5px;
    float: left;
+    height: 100px;
+  width: 100px;
 }
 
 .SimonJ2, .PoojaS, .Jesse {
   	border-style: solid;
-	border-color: orange;
+	border-color: #F8F8F8;
+    border-width: 5px;
    float: left;
+    height: 100px;
+  width: 100px;
 }
 
 .HBT {
   	border-style: solid;
-	border-style: dotted;
-	border-color: Black;
+	border-style: solid;
+	border-color: #F8F8F8;
+    border-width: 5px;
    float: left;
+    height: 100px;
+  width: 100px;
 }
 
 .tsamb, .Tim, .LeonDT, .Steeds, .JasonM {
-  border-style: dashed;
-  border-color: black;
+  border-style: solid;
+  border-color: #F8F8F8;
+    border-width: 5px;
    float: left;
+    height: 100px;
+  width: 100px;
 }
 
 .Bridgette, .Brad {
   border-style: solid;
-  border-color: purple;
+  border-color: #F8F8F8;
+    border-width: 5px;
    float: left;
+    height: 100px;
+  width: 100px;
 }
 
 
