@@ -24,10 +24,20 @@ Include wireframes for all pages included in the site including:
 #### Desktop
 ![Desktop](https://github.com/sophrosune/sophrosune.github.io/blob/master/class07/Final_Project/images/desktop1.jpg "Landing Page Desktop")
 
+![DesktopV1](https://github.com/sophrosune/sophrosune.github.io/blob/master/class07/Final_Project/images/desktop1%20v1.jpg "Game Desktop V1")
+
+![DesktopV](https://github.com/sophrosune/sophrosune.github.io/blob/master/class07/Final_Project/images/desktop1%20v2.jpg "Game Desktop V2")
+
 
 #### Tablet
 
+![Tablet](https://github.com/sophrosune/sophrosune.github.io/blob/master/class07/Final_Project/images/tablet2.jpg "Game Tablet")
+
 #### Mobile
+
+![Mobile Landing Page](https://github.com/sophrosune/sophrosune.github.io/blob/master/class07/Final_Project/images/mobile1.jpg "Mobile Landing Page")
+
+![Mobile Game](https://github.com/sophrosune/sophrosune.github.io/blob/master/class07/Final_Project/images/mobile2.jpg "Mobile Game")
 
 ## MVP 
 
