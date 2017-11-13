@@ -28,6 +28,8 @@ Include wireframes for all pages included in the site including:
 
 ![DesktopV](https://github.com/sophrosune/sophrosune.github.io/blob/master/class07/Final_Project/images/desktop1%20v2.jpg "Game Desktop V2")
 
+I also got started on building this. Code is in my repo and also [here](https://codepen.io/Hadsterific/pen/WXeEGE) (faster preview).
+
 
 #### Tablet Game
 
@@ -73,6 +75,6 @@ More content...
 
 App!
 
-'#Dreamin'Big
+Dreamin' Big
 
 
