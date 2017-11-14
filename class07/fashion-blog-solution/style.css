@@ -1,0 +1,103 @@
+ul {
+  list-style: none;
+  font-family: open sans;
+  color: white;
+}
+
+nav {
+  color: white;
+  font-family: open sans;
+}
+
+li {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: black;
+  margin: -1px;
+  font-size: 12px;
+  weight: 400px;
+  font-family: open sans;
+}
+
+span {
+  font-size: 60px;
+  float: left;
+  font-family: open sans;
+  margin-top: -22px;
+  margin-bottom: -18px;
+  margin-right: 4px;
+  color: grey;
+  font-weight: 300;
+}
+
+.subtitle {
+  margin: -45px;
+  float: left;
+  padding-left: 220px;
+  font-family: open sans;
+}
+
+h1 {
+  padding-bottom: -10px;
+  font-family: open sans;
+  color: red;
+  font-weight: 300;
+}
+
+h2 {
+  margin-bottom: -15px;
+  font-weight: 100;
+  font-family: open sans;
+  color: grey;
+  font-size: 20px;
+}
+
+h3 {
+  font-family: open sans;
+  font-size: 20px;
+  font-weight: 300;
+  margin-top: 15px;
+}
+
+p {
+  font-family: open sans;
+  font-size: 10px;
+  color: grey;
+}
+
+.sidebar {
+  color: red;
+  background: white;
+}
+
+.first {
+  font-family: open sans;
+  font-size: 10px;
+  color: grey;
+  float: left;
+  margin-right: 300px;
+}
+
+.about {
+  float: right;
+  margin-top: -450px;
+}
+
+.popular {
+  float: right;
+  margin-top: -250px;
+  background: white;
+}
+
+hr {
+  margin-right: 300px;
+}
+
+.aboutc {
+  float: right;
+  margin-top: -400px;
+  font-family: open sans;
+  font-size: 10px;
+  color: grey;
+  background: white;
+}
