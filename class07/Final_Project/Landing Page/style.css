@@ -1,7 +1,6 @@
 nav {
   text-decoration: none;
   float: left;
-  display: block;
   padding: 50px 16px 12px 29px;
   margin-left: -5%;
 }
@@ -34,24 +33,30 @@ a {
 
 .logo {
   float: left;
-  padding-bottom:
-  width: 100px;
-  overflow: hidden;
-  box-sizing: border-box;
   margin-left: 5px;
+  margin-top: 5px;
+  height: 10px;
+  width: 10px;
 }
   
 .whs {
-  box-sizing: border-box;
+  margin-left: 10px;
   overflow: hidden;
   border-width: 5px;
   padding-top: 10%;
 }
 
-.Who {
+.Who .what .where .why. how {
   float: left;
-  height: 100px;
-  width: 100px;
+  color: orange;
+  height: 30%;
+    width: 30%;
+    text-align: center;
+  margin-right: -10px;
+}
+
+img {
+    float: left;
   margin: 5px;
 }
 
@@ -60,15 +65,10 @@ a {
   height: 100px;
   width: 100px;
   margin: 5px;
-}
+    text-align: center;
+} 
 
 body {
-  color: white;
-}
-
-a:active, a:hover {
-    outline: 0;
-    outline-color: initial;
-    outline-style: initial;
-    outline-width: 0px;
+  color: #D34D35;
+  background-color: white;
 }
