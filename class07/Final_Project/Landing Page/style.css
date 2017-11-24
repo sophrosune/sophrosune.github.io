@@ -34,41 +34,26 @@ a {
 .logo {
   float: left;
   margin-left: 5px;
-  margin-top: 5px;
+  margin-top: 10px;
   height: 10px;
   width: 10px;
 }
   
 .whs {
-  margin-left: 10px;
   overflow: hidden;
-  border-width: 5px;
   padding-top: 10%;
+  line-height: 1px;
+  display: block;
+align-items: center;
 }
 
-.Who .what .where .why. how {
+.Who, .What, .Where, .Why, .How {
+  text-align: center;
   float: left;
-  color: orange;
-  height: 30%;
-    width: 30%;
-    text-align: center;
-  margin-right: -10px;
+  margin: 25px;
+  color: #D34D35;
 }
-
-img {
-    float: left;
-  margin: 5px;
-}
-
-.How {
-  float: left;
-  height: 100px;
-  width: 100px;
-  margin: 5px;
-    text-align: center;
-} 
 
 body {
-  color: #D34D35;
   background-color: white;
 }
