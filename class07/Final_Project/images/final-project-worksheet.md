@@ -10,9 +10,11 @@ Use this section to describe your final project and perhaps any links to relevan
 | [CodePen by Nate Wiley](https://codepen.io/Hadsterific/pen/boOqvw)| I'd like this to be the hard mode of my game. |   
 | [CodePen by Mike Wood](https://codepen.io/petrarque/full/JWapzj/)| Another idea for my game, drag n drop.|   
 | [CareOf Survey](https://takecareof.com/survey/new?question=first_name) | This is a really cool interactive survey I'd love to integrate sometime in the future if I'm able to tackle the rest of this. |   
+|[Loli beauty landing page](https://lolibeauty.com/)| love the gifs in the how it works |   
 |  |   |   
-|  |   |   
-|  |   |   
+|  |   | 
+
+
 
 ## Wireframes
 
