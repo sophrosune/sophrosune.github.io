@@ -1,0 +1,23 @@
+h1, h4 {
+ font-family: "Apercu Pro", sans-serif;
+  16px/2 'Apercu Pro', Geneva, Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  color: #F8f8f8;
+}
+
+h4, .card-group {
+  padding-right: 10%;
+    padding-left: 10%;
+  margin-bottom: 3%;
+} 
+
+div.card {
+min-width: 100px;
+  max-width: 100px;
+}
+
+/*insert media query for mobile and tablet*/
+
+
+
+                
