@@ -1,0 +1,52 @@
+h1, h3, h4 {
+ font-family: "Apercu Pro", sans-serif;
+  16px/2 'Apercu Pro', Geneva, Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  color: #F8f8f8;
+}
+
+h4, .card-group {
+  padding-right: 10%;
+    padding-left: 10%;
+  margin-bottom: 3%;
+} 
+
+div.card, div.textcard {
+   min-width: 100px;
+  min-height: 100px;
+  max-height: 100px;
+  max-width: 100px;
+}
+
+div.textcard {
+font-size: 13px;
+  line-height: 15px;
+  text-align: center;
+  padding: 3px;
+  background-color: #D14428;
+  color: white;
+}
+
+/*insert media query for mobile and tablet*/
+
+
+.card-header, .card-title, .card-text {
+  font-size: 13px;
+  margin-left: 0px;
+    margin-after: 0px;
+  min-width: 100px;
+  min-height: 100px;
+  max-height: 100px;
+  max-width: 100px;
+}
+
+.textcard {
+border: 1px solid white;
+}
+
+div .textcard {
+
+}
+
+
+                
