@@ -1,5 +1,14 @@
+html,body {
+  height:100%;
+}
+
+body {
+	background-color: white;
+	line-height: .5;
+}
+
 h1, h4 {
- font-family: "Apercu Pro", sans-serif;
+ font-family: "Apercu", sans-serif;
   16px/2 'Apercu Pro', Geneva, Helvetica, Arial, sans-serif;
   font-weight: 500;
   color: #F8f8f8;
@@ -14,10 +23,80 @@ h4, .card-group {
 div.card {
 min-width: 100px;
   max-width: 100px;
+  line-height: .5;
 }
 
-/*insert media query for mobile and tablet*/
+button.btn btn-secondary{
+	background-color: white;
+	color: black;
+}
+
+.btn-secondary {
+    color: black;
+    background-color: white;
+    border-color: white;
+    }
+
+.btn, button, .button, .card {
+    color: white;
+    background-color: #D14428;
+    border-color: white;
+    line-height: .5;
+ /*   height: 40%;
+    width: 40%;*/
+    }
+
+.btn-secondary:hover {
+   color: white;
+    background-color: #D14428;
+    border-color: #6c757d;
+}
+
+.btn-secondary:not([disabled]):not(.disabled).active, .btn-secondary:not([disabled]):not(.disabled):active, .show>.btn-secondary.dropdown-toggle {
+    color: white;
+    background-color: ##D14428;
+    border-color: #666e76;
+    box-shadow: 0 0 0 0.2rem rgba(134,142,150,.5);
+}
+_buttons.scss:37
+.btn:not([disabled]):not(.disabled).active, .btn:not([disabled]):not(.disabled):active {
+    background-image: none;
+}
+_buttons.scss:24
+.btn-secondary.focus, .btn-secondary:focus {
+    box-shadow: 0 0 0 0.2rem rgba(134,142,150,.5);
+}
 
 
+ul#menu li {
+display: inline-block;
+float: right;
+position: relative;
+margin-top: 28px; 
+margin-left: 10px;
+margin-right: 35px;
 
-                
+}
+
+ul#menu li a {
+
+text-decoration: none;
+color: white;
+font-family: "Apercu" sans-serif;
+font-size: 15px;
+}
+
+#backgroundimage {
+background-image: url("bgc.jpg");
+width: 100vw;
+height: 100vh; 
+background-size: 100% 100%;
+background-repeat: no-repeat;
+position: relative;
+} 
+
+nav
+{
+overflow: auto;
+background-color: #D14428;
+}
