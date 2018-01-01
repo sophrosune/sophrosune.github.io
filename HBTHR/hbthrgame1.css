@@ -27,7 +27,6 @@ font-size: 13px;
   color: white;
 }
 
-/*insert media query for mobile and tablet*/
 
 
 .card-header, .card-title, .card-text {
@@ -46,6 +45,40 @@ border: 1px solid white;
 
 div .textcard {
 
+}
+
+
+ul#menu li {
+display: inline-block;
+float: right;
+position: relative;
+margin-top: 28px; 
+margin-left: 10px;
+margin-right: 35px;
+
+}
+
+ul#menu li a {
+
+text-decoration: none;
+color: white;
+font-family: "Apercu" sans-serif;
+font-size: 15px;
+}
+
+#backgroundimage {
+background-image: url("bgc.jpg");
+width: 100vw;
+height: 100vh; 
+background-size: 100% 100%;
+background-repeat: no-repeat;
+position: relative;
+} 
+
+nav
+{
+overflow: auto;
+background-color: #D14428;
 }
 
 
