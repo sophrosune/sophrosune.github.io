@@ -1,0 +1,78 @@
+nav {
+  text-decoration: none;
+  float: left;
+  padding: 50px 16px 12px 29px;
+  margin-left: -5%;
+}
+
+ul {
+  font-family: "Apercu Pro", sans-serif;
+  16px/2 'Apercu Pro', Geneva, Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  color: #F8f8f8;
+  transition: all 0.4s ease;
+    transition-property: all;
+    transition-duration: 0.4s;
+    transition-timing-function: ease;
+    transition-delay: initial;
+  border-left: 4px solid #D34D35;
+    border-left-width: 4px;
+    border-left-style: solid;
+    border-left-color: rgb(211, 77, 53);
+  display: block;
+    padding: 12px 16px 12px 29px;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    line-height: 2.5;
+}
+ul a {
+  display: block;
+}
+
+a {
+  color: #777;
+  text-decoration: none;
+}
+
+.logo {
+  float: left;
+  margin-left: 5px;
+  margin-top: 10px;
+  height: 10px;
+  width: 10px;
+}
+  
+
+.whs {
+  padding-top: 10%;
+  line-height: 3px;
+  width: 70%;
+margin-left: 200px;
+  font-size: 0;
+}
+
+.whs div {
+  margin: 0;
+  display: inline-block;
+  width: 40%;
+  vertical-align: top;
+}
+
+
+h4 {
+  font-family: "Apercu Pro", sans-serif;
+  16px/2 'Apercu Pro', Geneva, Helvetica, Arial, sans-serif;
+  text-align: center;
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+body {
+  background-color: white;
+}
+
+ @media (max-width: 800px) {
+   .whs div {
+     width: 200px;
+   }
+}

@@ -82,6 +82,6 @@ background-color: #D14428;
 }
 
 
-#hb1.ui-draggable-dragging { border: 2px black solid; }
+.ui-draggable-dragging { border: 2px black solid; }
 
                 
