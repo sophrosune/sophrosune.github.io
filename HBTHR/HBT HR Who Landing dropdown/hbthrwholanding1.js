@@ -31,13 +31,12 @@
 // }
 
 
-
-    $(document).ready(function() {
-        $('nav').hide('fast');
-        $('#teams').change(function() {
-            $('.section').hide();
-            $('#' + $(this).val()).show();
-        });
+$(document).ready(function() {
+    $('nav').hide('fast');
+    $('#teams').change(function() {
+        $('.section').hide();
+        $('#' + $(this).val()).show();
     });
+});
 
 
