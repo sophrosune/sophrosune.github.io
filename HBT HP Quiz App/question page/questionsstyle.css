@@ -62,6 +62,15 @@ body {
     /*width: 20%;*/
 }
 
+.submitButton {
+    background-color: #52658f;
+    border: solid 7px aliceblue;
+    color: white;
+    height: 10%;
+    width: 20%;
+    margin-top: -470px;
+    font-size: 18px;
+}
 
 
 .footercontainer {
@@ -92,5 +101,5 @@ body {
 }
 
 .questionnumber, .questiontext {
-    border: solid 5px white;
+    border: solid px white;
 }

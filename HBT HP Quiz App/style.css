@@ -28,15 +28,17 @@ body {
     padding-right: 15px;
     padding-top: -5;
     padding-bottom: -5;
+    border: solid 5px white;
 }
 
 .startButton {
     background-color: #52658f;
-    border: solid 7px #FBCF10;
+    border: solid 7px aliceblue;
     color: white;
     height: 10%;
     width: 20%;
     margin-top: -470px;
+    font-size: 18px;
 }
 
 .startertext,
@@ -64,8 +66,4 @@ body {
     display: flex;
     justify-content: center;
     margin-right: 15px;
-}
-
-.questionnumber, .questiontext {
-    border: solid 5px white;
 }

@@ -23,8 +23,8 @@ body {
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    height:40%;
-    width: 40%;
+    height: 200px;
+    width: 200px;
     position:absolute;
 }
 
@@ -43,6 +43,18 @@ body {
 
 .questionnumber, .questiontext {
     border: solid 5px white;
+}
+
+.nextButton {
+    background-color: #52658f;
+    border: solid 7px aliceblue;
+    color: white;
+    height: 10%;
+    width: 20%;
+    margin-top: -470px;
+    font-size: 18px;
+    position: absolute;
+    top: 1102px;
 }
 
 
