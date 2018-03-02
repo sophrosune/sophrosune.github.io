@@ -98,8 +98,8 @@ const STORE = [
     {
       question: 'Why is Mark Evans significant?',
       answers: [
-      'Dudley and his gang lost a fight with him.',
-      'He was on the Gryffindor Quidditch team.',
+      'Dudley and his gang lost a fight with him because he was a Wizard.',
+      'He was on the Gryffindor Quidditch team when Harry was kicked out by Professor Umbridge.',
       "Mark Evans is Voldemort's real name.",
       'JK Rowling accidentally gave him an important surname even though he was a background character.'
       ],

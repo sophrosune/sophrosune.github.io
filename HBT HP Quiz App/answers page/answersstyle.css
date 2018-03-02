@@ -17,7 +17,19 @@ body {
     background-color: #52658f;
 }
 
+.imagebox {
+    /*border: 3px blue solid;*/
+    background-image: url("https://www.universalorlando.com/web/k2/en/us/files/assets/flight-hippogriff-ride-orlando-marquee-i.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height:40%;
+    width: 40%;
+    position:absolute;
+}
+
 .questiontext {
+    position:static;
     background-color: #fbce72;
     color: white;
     height: 30%;
@@ -26,43 +38,18 @@ body {
     align-items: center;
     padding-left: 15px;
     padding-right: 15px;
-    padding-top: -5;
-    padding-bottom: -5;
     justify-content: center;
 }
 
-.answerButton {
-    background-color: #52658f;
-    border: solid 7px #FBCF10;
+.questionnumber, .questiontext {
+    border: solid 5px white;
+}
+
+
+.funfacts {
     color: white;
-    height: 70%;
-    width: 50%;
-    font-size: 15px;
-    text-align: center;
-    /*flex-direction: column;*/
-    align-items: center;
+    margin: auto;
 }
-
-.startertext,
-/*.answerButton */{
-    align-content: center;
-}
-
-.answers {
-    display: flex;
-        /*height: 50%;*/
-        /*design wise, I'm not sure what I like better, the height or not.*/
-    width: 63%;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.answers .answerButton {
-    /*flex: 1;*/
-    /*width: 20%;*/
-}
-
-
 
 .footercontainer {
     border: solid 5px #fbce72;
@@ -70,7 +57,7 @@ body {
     height: 100px;
     display: flex;
     width: 95%;
-    justify-content: space-around;
+    justify-content: flex-end;
     align-items: center;
 }
 
@@ -84,13 +71,4 @@ body {
     display: flex;
     justify-content: center;
     margin-right: 15px;
-}
-
-.funfacts {
-    color: white;
-    margin: auto;
-}
-
-.questionnumber, .questiontext {
-    border: solid 5px white;
 }

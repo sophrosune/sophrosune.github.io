@@ -65,3 +65,7 @@ body {
     justify-content: center;
     margin-right: 15px;
 }
+
+.questionnumber, .questiontext {
+    border: solid 5px white;
+}
