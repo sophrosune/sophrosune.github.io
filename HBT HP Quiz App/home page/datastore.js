@@ -60,14 +60,14 @@ const STORE = [
       alt: 'Dragon'
     },
     {
-      question: 'Which rare beasts can be found in the Forbidden Forest?',
+      question: 'Which rare creatures can be found in the Forbidden Forest?',
       answers: [
         'Acromantula, Centaurs, Dementors, Thestrals, Unicorns',
         'Acromantula, Centaurs, Thestrals, Unicorns, Werewolves',
         'Acromantula, Centaurs, Dragons, Thestrals, Unicorns',
         'Acromantula, Dragons, Thestrals, Unicorns'
         ],
-      correctAnswer: 'Acromantula, Dragons, Thestrals, Unicorns (Centaurs are not beasts, Dementors were everywhere, Lupin lived in the Shrieking Shack)',
+      correctAnswer: 'Acromantula, Dragons, Thestrals, Unicorns',
       icon: 'https://i.imgur.com/XEwf3tK.png',
       alt: 'Thestral'
     },
