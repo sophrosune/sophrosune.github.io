@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Harry Potter Quiz App</title>
+    <meta name="viewport" content="width=device-width">
+    <link href="index.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=OpenSans" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="datastore.js"></script>
+    <script src="index.js"></script>
+</head>
+
+<body>
+    <div class="quizIntro quizSection">
+        <div class="startertext"> MAGIC OR MUGGLE? LET'S FIND OUT WHERE YOU BELONG.
+        </div>
+        <button class="startButton">
+            Enter Stranger
+        </button>
+    </div>
+    <div class="quizContent quizSection">
+      <div class="questionScoreBoxes">
+        <div class="questionNumber"> Q1
+        </div>
+        <div class="scorebox">
+            <h4> SCORE 0/10 </h4>
+        </div>
+      </div>
+        <div class="questionsContainer">
+        </div>
+       <div class ="answerContainer">
+         <!--change name maincontainer css for answer page -->
+          <div class="imagebox">
+          </div>
+        </div>
+    </div>
+    <div class="quizEnd quizSection">
+      <div class="questionScoreBoxes2 questionScoreBoxes">
+        <div class="questionNumber2 questionNumber"> Q
+        </div>
+        <div class="scorebox2 scorebox">
+            <h4> SCORE 0/10 </h4>
+        </div>
+      </div>
+        <div class="endText"> YOU DID IT! CLICK BELOW TO USE THE TIME TURNER TO TRY AGAIN.
+        </div>
+        <button class="quizEndButton">
+            I OPEN AT THE CLOSE
+        </button>
+    </div>
+</body>
+
+</html>

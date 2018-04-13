@@ -37,3 +37,27 @@ $(".textcard").droppable({
   } 
 })
 });
+
+function userSelectsOption () {
+	$('#teams').change(function (event) {
+    $('option:selected').val();
+    alert($('option:selected').val());
+	})
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

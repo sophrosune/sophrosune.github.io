@@ -1,0 +1,236 @@
+.quizSection {
+  display: none;
+}
+
+body {
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    background-color: aliceblue;
+}
+
+.quizIntro {
+    height: 700px;
+    /*display: flex;*/
+    width: 96%;
+    /*flex-wrap: wrap;*/
+    flex-direction: column;
+    align-items: center;
+    font-size: 24px;
+    justify-content: space-around;
+    background-color: aliceblue;
+}
+
+.quizEnd {
+    height: 700px;
+    /*display: flex;*/
+    width: 96%;
+    /*flex-wrap: wrap;*/
+    flex-direction: column;
+    align-items: center;
+    font-size: 24px;
+    /*justify-content: space-around;*/
+    background-color: aliceblue;
+    /*margin-top: 90px;*/
+}
+
+.startertext {
+    background-color: #223a60;
+    color: white;
+    height: 30%;
+    width: 60%;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: -5;
+    padding-bottom: -5;
+    border: solid 5px #FBCE34;
+}
+
+.endText {
+    background-color: #223a60;
+    color: white;
+    height: 30%;
+    width: 60%;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: -5;
+    padding-bottom: -5;
+    border: solid 5px #FBCE34;
+    margin-top: -32px;
+}
+
+.startButton, .quizEndButton {
+    background-color: #223a60;
+    border: solid 7px #FBCE34;
+    color: white;
+    /*height: 10%;*/
+    /*width: 20%;*/
+    margin-top: -470px;
+    font-size: 18px;
+    width: max-content;
+    padding: 12px;
+    /*position: relative;*/
+    /*top: -30px;*/
+}
+
+.quizEndButton {
+  margin-top: -32px;
+}
+
+.startertext,
+.startButton {
+    justify-content: center;
+}
+
+.questionScoreBoxes {
+  display: flex;
+  font-weight: bold;
+  margin-bottom: -45px;
+}
+
+.scorebox {
+    background-color: #223a60;
+    color: white;
+    border: #FBCE34 5px solid;
+    height: 70px;
+    width: 70px;
+    font-size: 16px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.questionNumber {
+    background-color: #223a60;
+    color: white;
+    border: #FBCE34 5px solid;
+    height: 70px;
+    width: 70px;
+    font-size: 18px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-right: 15px;
+    margin-bottom: -100px;
+}
+
+.questionScoreBoxes2 {
+  display: flex;
+  font-weight: bold;
+  margin-bottom: 90px;
+  margin-top: 45px;
+}
+
+
+.scorebox2 {
+    background-color: #223a60;
+    color: white;
+    border: #FBCE34 5px solid;
+    height: 70px;
+    width: 70px;
+    font-size: 16px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.questionNumber2 {
+    background-color: #223a60;
+    color: white;
+    border: #FBCE34 5px solid;
+    height: 70px;
+    width: 70px;
+    font-size: 18px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-right: 15px;
+    margin-bottom: -100px;
+}
+
+.quizContent {
+    height: 700px;
+    width: 96%;
+    flex-direction: column;
+    align-items: center;
+    font-size: 20px;
+    justify-content: space-around;
+    background-color: aliceblue;
+}
+
+fieldset {
+  border: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.questionsContainer {
+    background-color: #223a60;
+    color: white;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 33px;
+    justify-content: center;
+    font-size: 22px;
+    text-align: center;
+    position: relative;
+    border: solid 7px #FBCE34;
+}
+
+legend {
+  margin-bottom: 10px;
+}
+
+.answerButton, .input, .answerButton2 {
+    background-color: #52658f;
+    margin: 2px;
+    color: white;
+    height: 70%;
+    font-size: 17px;
+    text-align: left;
+    align-items: left;
+    padding: 5px 10px;
+    word-wrap: break-word;
+}
+
+input[type=radio] {
+    flex: 0 0 auto;
+    margin-right: 10px;
+}
+
+.answerButton:hover, .answerButton:focus {
+    background-color: #ff324a;
+    color: aliceblue;
+}
+
+
+.starterText {
+    align-content: center;
+}
+
+
+.nextButton {
+    background-color: #223a60;
+    border: solid 5px #FBCE34;
+    color: white;
+    margin: 10px auto;
+    font-size: 14px;
+    padding: 10px;
+    margin-top: 45px;
+    margin-bottom: -10px;
+}
+
+
+.answer {
+    flex: 1 1 auto;
+}
+
